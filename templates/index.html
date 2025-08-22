@@ -1,0 +1,26 @@
+<div class="chat-window" id="chatWindow">
+    <div class="chat-header">
+        <h3>Chat with Us</h3>
+        <div class="theme-selector">
+            <div class="theme-color" style="background-color: #007bff;" data-theme="blue"></div>
+            <div class="theme-color" style="background-color: #28a745;" data-theme="green"></div>
+            <div class="theme-color" style="background-color: #dc3545;" data-theme="red"></div>
+            <div class="theme-color" style="background-color: #6c757d;" data-theme="dark"></div>
+        </div>
+        <button class="close-btn" onclick="toggleChat()">×</button>
+    </div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <div class="chat-input">
+        <textarea id="userInput" placeholder="Type your message..."></textarea>
+        <div class="voice-controls">
+            <button class="voice-btn" id="voiceInputBtn" title="Voice Input">
+                <i class="fas fa-microphone"></i>
+            </button>
+            <button class="voice-btn" id="voiceOutputBtn" title="Voice Output">
+                <i class="fas fa-volume-up"></i>
+            </button>
+        </div>
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</div>
+<div class="confetti-container" id="confettiContainer"></div> 

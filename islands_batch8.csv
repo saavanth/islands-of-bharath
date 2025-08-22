@@ -1,0 +1,52 @@
+Island Name,Group/Region,Area (sq km),Population,Administrative District,Main Settlement / Town,Protected Status,Tourism,Notable Features,Flood Events (per year),Temperature (°C),Rainfall (mm/year),Humidity (%),Other Notes
+Sutlej River Islands,Punjab,40,25000,Firozpur,Firozpur,None,Major,River islands agriculture,Occasional,15–35,600,50–70,Sutlej river system
+Beas River Islands,Punjab,30,18000,Amritsar,Amritsar,None,Major,River islands Golden Temple area,Occasional,15–35,600,50–70,Beas river system
+Ravi River Islands,Punjab,25,15000,Gurdaspur,Gurdaspur,None,Moderate,River islands agriculture,Occasional,15–35,600,50–70,Ravi river system
+Chenab River Islands,Punjab,20,12000,Fazilka,Fazilka,None,Moderate,River islands border area,Occasional,15–35,600,50–70,Chenab river system
+Ghaggar River Islands,Punjab,15,8000,Patiala,Patiala,None,Low,River islands seasonal,Occasional,15–35,600,50–70,Ghaggar river
+Swan River Islands,Punjab,10,5000,Hoshiarpur,Hoshiarpur,None,Low,River islands small settlements,Occasional,15–35,600,50–70,Swan river
+Chakki River Islands,Punjab,8,3000,Pathankot,Pathankot,None,Low,River islands border area,Occasional,15–35,600,50–70,Chakki river
+Indus River Islands,Rajasthan,35,15000,Jaisalmer,Jaisalmer,None,Moderate,River islands desert,Occasional,20–40,400,40–60,Indus river system
+Luni River Islands,Rajasthan,25,12000,Jodhpur,Jodhpur,None,Moderate,River islands seasonal,Occasional,20–40,400,40–60,Luni river system
+Chambal River Islands,Rajasthan,30,18000,Kota,Kota,None,Moderate,River islands wildlife,Occasional,20–40,400,40–60,Chambal river system
+Banas River Islands,Rajasthan,20,10000,Tonk,Tonk,None,Moderate,River islands agriculture,Occasional,20–40,400,40–60,Banas river system
+Mahi River Islands,Rajasthan,15,8000,Banswara,Banswara,None,Low,River islands tribal culture,Occasional,20–40,400,40–60,Mahi river system
+Sabarmati River Islands,Rajasthan,12,6000,Udaipur,Udaipur,None,Moderate,River islands lakes,Occasional,20–40,400,40–60,Sabarmati river
+Kali Sindh River Islands,Rajasthan,8,4000,Jhalawar,Jhalawar,None,Low,River islands small settlements,Occasional,20–40,400,40–60,Kali Sindh river
+Teesta River Islands,Sikkim,20,8000,East Sikkim,Gangtok,None,Major,River islands tourism,Occasional,10–25,2500,70–85,Teesta river system
+Rangit River Islands,Sikkim,15,6000,South Sikkim,Namchi,None,Moderate,River islands hydro projects,Occasional,10–25,2500,70–85,Rangit river system
+Lachung River Islands,Sikkim,12,4000,North Sikkim,Lachung,None,Moderate,River islands high altitude,Occasional,10–25,2500,70–85,Lachung river
+Lachen River Islands,Sikkim,10,3000,North Sikkim,Lachen,None,Low,River islands glaciers,Occasional,10–25,2500,70–85,Lachen river
+Rani Khola Islands,Sikkim,8,2000,West Sikkim,Geyzing,None,Low,River islands forests,Occasional,10–25,2500,70–85,Rani Khola river
+Rangpo River Islands,Sikkim,6,1500,East Sikkim,Rangpo,None,Low,River islands border area,Occasional,10–25,2500,70–85,Rangpo river
+Godavari River Islands,Telangana,50,30000,Karimnagar,Karimnagar,None,Major,River islands temples,Occasional,20–35,1000,60–75,Godavari river system
+Krishna River Islands,Telangana,40,25000,Nalgonda,Nalgonda,None,Major,River islands agriculture,Occasional,20–35,1000,60–75,Krishna river system
+Manjira River Islands,Telangana,25,15000,Medak,Medak,None,Moderate,River islands wildlife,Occasional,20–35,1000,60–75,Manjira river system
+Musi River Islands,Telangana,20,12000,Hyderabad,Hyderabad,None,Moderate,River islands urban,Occasional,20–35,1000,60–75,Musi river system
+Penganga River Islands,Telangana,15,8000,Adilabad,Adilabad,None,Low,River islands tribal culture,Occasional,20–35,1000,60–75,Penganga river
+Pranahita River Islands,Telangana,12,6000,Adilabad,Adilabad,None,Low,River islands forests,Occasional,20–35,1000,60–75,Pranahita river
+Kinnerasani River Islands,Telangana,8,4000,Khammam,Khammam,None,Low,River islands small settlements,Occasional,20–35,1000,60–75,Kinnerasani river
+Gomati River Islands,Tripura,30,20000,West Tripura,Agartala,None,Major,River islands temples,Occasional,20–35,2000,70–85,Gomati river system
+Manu River Islands,Tripura,25,15000,Dhalai,Ambassa,None,Moderate,River islands agriculture,Occasional,20–35,2000,70–85,Manu river system
+Khowai River Islands,Tripura,20,12000,West Tripura,Agartala,None,Moderate,River islands urban,Occasional,20–35,2000,70–85,Khowai river system
+Haora River Islands,Tripura,15,8000,West Tripura,Agartala,None,Moderate,River islands border area,Occasional,20–35,2000,70–85,Haora river
+Feni River Islands,Tripura,10,5000,South Tripura,Udaipur,None,Low,River islands tribal culture,Occasional,20–35,2000,70–85,Feni river
+Deo River Islands,Tripura,8,3000,North Tripura,Dharmanagar,None,Low,River islands small settlements,Occasional,20–35,2000,70–85,Deo river
+Ganga River Islands,Uttar Pradesh,80,50000,Varanasi,Varanasi,None,Major,River islands temples ghats,Occasional,15–35,1000,60–75,Ganga river system
+Yamuna River Islands,Uttar Pradesh,60,40000,Agra,Agra,None,Major,River islands Taj Mahal area,Occasional,15–35,1000,60–75,Yamuna river system
+Gomti River Islands,Uttar Pradesh,40,25000,Lucknow,Lucknow,None,Major,River islands Nawabi heritage,Occasional,15–35,1000,60–75,Gomti river system
+Ghaghara River Islands,Uttar Pradesh,35,20000,Ayodhya,Ayodhya,None,Major,River islands Ram temple,Occasional,15–35,1000,60–75,Ghaghara river system
+Betwa River Islands,Uttar Pradesh,25,15000,Jhansi,Jhansi,None,Moderate,River islands forts,Occasional,15–35,1000,60–75,Betwa river system
+Ken River Islands,Uttar Pradesh,20,12000,Banda,Banda,None,Moderate,River islands wildlife,Occasional,15–35,1000,60–75,Ken river system
+Chambal River Islands,Uttar Pradesh,30,18000,Agra,Agra,None,Moderate,River islands dacoit history,Occasional,15–35,1000,60–75,Chambal river system
+Sone River Islands,Uttar Pradesh,15,8000,Allahabad,Allahabad,None,Moderate,River islands confluence,Occasional,15–35,1000,60–75,Sone river system
+Rapti River Islands,Uttar Pradesh,12,6000,Gorakhpur,Gorakhpur,None,Low,River islands agriculture,Occasional,15–35,1000,60–75,Rapti river system
+Gandak River Islands,Uttar Pradesh,10,5000,Kushinagar,Kushinagar,None,Low,River islands Buddhist sites,Occasional,15–35,1000,60–75,Gandak river system
+Ganga River Islands,Uttarakhand,45,25000,Haridwar,Haridwar,None,Major,River islands pilgrimage,Occasional,10–30,1500,60–80,Ganga river system
+Yamuna River Islands,Uttarakhand,35,20000,Dehradun,Dehradun,None,Major,River islands Doon Valley,Occasional,10–30,1500,60–80,Yamuna river system
+Alaknanda River Islands,Uttarakhand,25,15000,Chamoli,Chamoli,None,Moderate,River islands Char Dham,Occasional,10–30,1500,60–80,Alaknanda river system
+Bhagirathi River Islands,Uttarakhand,20,12000,Uttarkashi,Uttarkashi,None,Moderate,River islands Gangotri,Occasional,10–30,1500,60–80,Bhagirathi river system
+Mandakini River Islands,Uttarakhand,15,8000,Rudraprayag,Rudraprayag,None,Moderate,River islands Kedarnath,Occasional,10–30,1500,60–80,Mandakini river system
+Dhauliganga River Islands,Uttarakhand,12,6000,Pithoragarh,Pithoragarh,None,Low,River islands high altitude,Occasional,10–30,1500,60–80,Dhauliganga river
+Kali River Islands,Uttarakhand,10,4000,Pithoragarh,Pithoragarh,None,Low,River islands border area,Occasional,10–30,1500,60–80,Kali river system
+Ramganga River Islands,Uttarakhand,8,3000,Almora,Almora,None,Low,River islands small settlements,Occasional,10–30,1500,60–80,Ramganga river 
